@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // node API
-const API = 'http://localhost:8081/movies'; 
+const API = 'https://vccproject-1.onrender.com'; 
 
 // fetching the movies
 export const getMoviesApi = () => {
